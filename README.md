@@ -10,4 +10,3 @@ Below are links to the screenshots using the VOILA feature to create a web app
 ![voila4](https://user-images.githubusercontent.com/100783805/166499371-e63f65df-9738-4b24-8e79-52d99130aea2.PNG)
 
 
-![voila3](https://user-images.githubusercontent.com/100783805/167304005-ae9dfb28-885c-4284-93f8-48fddab28574.PNG)
